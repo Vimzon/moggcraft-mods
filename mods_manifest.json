@@ -434,6 +434,11 @@
       "sha256": "9966b3baec4418c279d5df789e18ba3915c08d43e0fe3872211c52af274cf5b8"
     },
     {
+      "filename": "simplify_gamemodes_commands-1.0.2-forge-1.20.1.jar",
+      "size": 1077783,
+      "sha256": "b3d99fa6ee05dfda94ffc6f65b075e6bb8e7d1be571ab8cc42033559b80d3fb3"
+    },
+    {
       "filename": "sound-physics-remastered-forge-1.20.1-1.5.1.jar",
       "size": 206984,
       "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"
