@@ -477,6 +477,11 @@
       "filename": "worldedit-mod-7.2.15.jar",
       "size": 5825402,
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
+    },
+    {
+      "filename": "worldofbosses_0.7.jar",
+      "size": 1614792,
+      "sha256": "d9a3d50defbe34604d8b6125e56bd171ad85a08cfcc72036ec062e64ae838877"
     }
   ]
 }
