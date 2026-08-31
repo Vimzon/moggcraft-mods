@@ -34,14 +34,19 @@
       "sha256": "2416aba430bd7d330f956616ab19b4e72531e43e276d218219e5fea284ba77ad"
     },
     {
+      "filename": "CreateNumismatics-1.0.15+forge-mc1.20.1.jar",
+      "size": 885623,
+      "sha256": "b26bc89d0c000c1e445dd2b3140667d3910299f995186311d1074f7909dc1699"
+    },
+    {
+      "filename": "Cucumber-1.20.1-7.0.16.jar",
+      "size": 271462,
+      "sha256": "b586a3cd1de362c365f923e5c325273916822f4b3a792c0d9ff6747d7deb2be6"
+    },
+    {
       "filename": "DimWorldBorder-Continuation-1.20.1-1.0.2.jar",
       "size": 37824,
       "sha256": "5d603b5dbd976a8ce1011c0394b2971d7c8a145dfe7ffd06332ca4423a87dbd7"
-    },
-    {
-      "filename": "DungeonsArise-1.20.x-2.1.58-release.jar",
-      "size": 8762342,
-      "sha256": "f8f1254dbe7ed7c1d5403f20361a36f0d0587c82b71313e3f427c7f1ce7c8a90"
     },
     {
       "filename": "Emojiful-Forge-1.20.1-4.2.0.jar",
@@ -52,11 +57,6 @@
       "filename": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
       "size": 66883,
       "sha256": "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07"
-    },
-    {
-      "filename": "ExtendedAE-1.20-1.4.18-forge.jar",
-      "size": 2970488,
-      "sha256": "82924170d6227ed07f08250ff57de718c1b087a391f028db7c337378d424f547"
     },
     {
       "filename": "FarmersDelight-1.20.1-1.3.2.jar",
@@ -89,16 +89,6 @@
       "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5"
     },
     {
-      "filename": "LimitMobSpawn-20.1.1.jar",
-      "size": 150242,
-      "sha256": "d366532461d25c354b8c5674c164a13f5576914577b6a65b5f7f094240f66f74"
-    },
-    {
-      "filename": "LocalizedChat-forge-1.20.1-5.1.3.jar",
-      "size": 23894,
-      "sha256": "7f5acaf89d4aacb042fd765ca69ff0540837b693e8450ddefff00a36795be3b1"
-    },
-    {
       "filename": "MaFgLib-0.1.14-mc1.20.1.jar",
       "size": 521709,
       "sha256": "2918c4f511b93d559ec8b85d87402e195baeec7634307740961d06435c4e7ed1"
@@ -109,9 +99,19 @@
       "sha256": "d800c6f687c25f156c4ba90b20deaa47eda9c2360c9bdf02fc7a434f78cc935d"
     },
     {
+      "filename": "MoggChat-1.0.1-MC1.20.1-1.0.1.jar",
+      "size": 124507,
+      "sha256": "54abd318068bce3e2e819fc110d79da0c162aa256ef4b6e4a8a4af4e8edefe1f"
+    },
+    {
       "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "size": 76237,
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
+    },
+    {
+      "filename": "MysticalAgriculture-1.20.1-7.0.24.jar",
+      "size": 2372822,
+      "sha256": "f9c5f8ac46d354e00b8ec0d5abfc3a224a78d15c521928f788b21bbe7792206d"
     },
     {
       "filename": "Necronomicon-Forge-1.6.0+1.20.1.jar",
@@ -119,19 +119,29 @@
       "sha256": "403b23457288c624a55feb90d5e813c88c23a611bc42cda397c4bfac94b4c3a3"
     },
     {
-      "filename": "Nullscape_1.20.x_v1.2.8.jar",
-      "size": 399214,
-      "sha256": "32ccc5beb6ad0215e06082620903e1825a1b0df51777f3f31801b4a17e6ebcc5"
-    },
-    {
       "filename": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
       "size": 424035,
       "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047"
     },
     {
+      "filename": "PackagedAuto-1.20.1-3.4.15.46.jar",
+      "size": 559684,
+      "sha256": "e312eb48793643b09421d1e97227e10b8323c5620b287daf0114d2b9906b1643"
+    },
+    {
+      "filename": "PackagedAvaritia-Re-1.20.1-2.2.2.13.jar",
+      "size": 148300,
+      "sha256": "aa24f320ac75fcec940da103aca8ec858f013fb9f5c69b2638ad1120225cf145"
+    },
+    {
       "filename": "Patchouli-1.20.1-85-FORGE.jar",
       "size": 642732,
       "sha256": "05f7b5d52f6b8f0fd7f8b4822fa07a192d1394d83a264309c9d221d6d4fd21c5"
+    },
+    {
+      "filename": "Re-Avaritia-forge-1.20.1-1.4.1-release.jar",
+      "size": 3510667,
+      "sha256": "db013e5a513faf671b68036981372158ded9e1d30417e0b38c44bb184655e2f1"
     },
     {
       "filename": "Searchables-forge-1.20.1-1.0.3.jar",
@@ -174,9 +184,9 @@
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
     },
     {
-      "filename": "bloodmagic-1.20.1-3.3.7-49-RU.jar",
-      "size": 15027705,
-      "sha256": "ec18cf20e4c9bf326ea6c3b58ed1bb975e395c460896b5ae5445efd611599b74"
+      "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
+      "size": 12430237,
+      "sha256": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af"
     },
     {
       "filename": "canary-mc1.20.1-0.3.3.jar",
@@ -184,9 +194,9 @@
       "sha256": "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942"
     },
     {
-      "filename": "chatplus-forge-2.8.1.jar",
-      "size": 27070339,
-      "sha256": "f30736ebfbeb7f422401e780458ce23b0a9f6e97edef63151fa373becf90ea29"
+      "filename": "clashcards-1.0.4-forge-1.20.1.jar",
+      "size": 2104289,
+      "sha256": "6d96df161bfa92f98568ef2e00810e693b7961972de3b09f4f835cdcf3e65a49"
     },
     {
       "filename": "collective-1.20.1-8.39.jar",
@@ -194,9 +204,19 @@
       "sha256": "594bc5d40f2a3fec1ad95732524f65e01a27ac2abeb9d59889cd9f01fd8db6cb"
     },
     {
+      "filename": "configured-forge-1.20.1-2.2.3.jar",
+      "size": 418929,
+      "sha256": "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f"
+    },
+    {
       "filename": "create-1.20.1-6.0.8.jar",
       "size": 19170905,
       "sha256": "6fbb910c367dbce8e4fc7e5bf64b6edd4de980906ed00af8e47e4af843c0d9b0"
+    },
+    {
+      "filename": "create-beyond-ages-0.4.1.1.jar",
+      "size": 6066624,
+      "sha256": "224d70814672ba1d8359ca44d1c6c7beebdfc51b6ee789fe09f52fa7f45308f1"
     },
     {
       "filename": "create-new-age-1.2.0+forge-mc1.20.1.jar",
@@ -209,24 +229,14 @@
       "sha256": "cd389d4f7623b54aeb0b06fa4b4949d022503ae63c0f11e8735764d68bf0a042"
     },
     {
-      "filename": "create_enchantment_industry-1.4.0-for-create-6.0.8.jar",
-      "size": 494161,
-      "sha256": "b483586f7f337971004ee6eeb0835e26ccdd294934298933a5aa2df7d90575ef"
-    },
-    {
-      "filename": "createarmoryv0.6.1n.jar",
-      "size": 1059027,
-      "sha256": "55f31574c53953d004ce95500cbc2391d8281f5dadcc16b5e6d1629566b40beb"
+      "filename": "create_numismatics_crafts-1.0.0-forge-1.20.1.jar",
+      "size": 23722,
+      "sha256": "f60ed246ad5bc8fec17d77d0a55bc2a4f545e4c85f5d4c013c48dec4294d71a4"
     },
     {
       "filename": "createbetterfps-1.20.1-1.1.2.jar",
       "size": 25214,
       "sha256": "6ae7511fc3c911168713d6281cd823eca8931a512f5f50917506e317bac640b3"
-    },
-    {
-      "filename": "createdeco-2.0.3-1.20.1-forge.jar",
-      "size": 3509013,
-      "sha256": "7d6dd0094d18d6bab64fcd7de680ea736015d1a1ffc472d3fe03122bc7aa0864"
     },
     {
       "filename": "createdieselgenerators-1.20.1-1.3.12.jar",
@@ -242,11 +252,6 @@
       "filename": "embeddium-0.3.31+mc1.20.1.jar",
       "size": 1320675,
       "sha256": "eed3d1325f2acc2fd4e69bb495e5ccb91d962126ac5330f0582ebc2a3daf47fb"
-    },
-    {
-      "filename": "emi-1.1.24+1.20.1+forge.jar",
-      "size": 1121750,
-      "sha256": "92784dcf5222d72983a420c90f2e9240468ee0fece96f757c82d7884b6cbdb72"
     },
     {
       "filename": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
@@ -284,6 +289,11 @@
       "sha256": "41810281b65336265cae2c88412022d02f2f0a3f28c66a06173d86f98acf14a7"
     },
     {
+      "filename": "ftb-quests-forge-2001.4.22.jar",
+      "size": 1255469,
+      "sha256": "9ea9d159a78a2724cfe0457b024680fdb52a2126eff9cfa5280a30578f647a68"
+    },
+    {
       "filename": "ftb-ranks-forge-2001.1.7.jar",
       "size": 87362,
       "sha256": "ec654cb94b3be8217da91f114667d7b0170c7be2ed533ac7e4faa337d1f5b872"
@@ -314,14 +324,14 @@
       "sha256": "cb515afb94d24647e5877d68c324567a8f9323ec8c5e7ddcbe5bfe3aace6aff8"
     },
     {
-      "filename": "hierarchy-1.20.1-0.0.8.jar",
-      "size": 213506,
-      "sha256": "d2888104c21b6902643523d8f6f965a0755eb570c114aff618113be693b85abf"
-    },
-    {
       "filename": "hierarchy-1_20_1-0_0_8-ru.jar",
       "size": 215721,
       "sha256": "591e4c8fd4e9d414ac44bdfa42f93f4ebe4d6ce70b57b1959b5e103d300dabd5"
+    },
+    {
+      "filename": "immersive_furniture-forge-0.3.3+1.20.1.jar",
+      "size": 988737,
+      "sha256": "c6b1962d08c3543874b22b495f5d75550f3094709744818043dc1014279c419c"
     },
     {
       "filename": "inventoryhud.forge.1.20.1-3.4.26.jar",
@@ -364,16 +374,6 @@
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
     },
     {
-      "filename": "leaderboards-1.20.1-Forge-2.0.4.jar",
-      "size": 98096,
-      "sha256": "629bc7d490f96e5f84ee39148181f6c39c5c50f9d457c0e0b62cc58e834ee384"
-    },
-    {
-      "filename": "lightmanscurrency-1.20.1-2.3.0.5.jar",
-      "size": 10445393,
-      "sha256": "d7527bfd0fb480e867e95a4504b278951a5e6b7857bf79c3a8ba7cb6fd2c50ab"
-    },
-    {
       "filename": "lodestone-1.20.1-1.6.4.1.jar",
       "size": 670934,
       "sha256": "e9f8b7bc70ba99d97005f2acee2061b149785fbae3c1e37db08c79197bcc7c2d"
@@ -384,11 +384,6 @@
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
     },
     {
-      "filename": "malum-1.20.1-1.6.7.jar",
-      "size": 26296223,
-      "sha256": "ceda6ce4cc19de21ff6c21a732d8f9270ecc83cdae69027b13aaa24b536307f8"
-    },
-    {
       "filename": "modernfix-forge-5.27.66+mc1.20.1.jar",
       "size": 1002234,
       "sha256": "7db0c735b9037937757dcc9d40e0b6e2dee5f01336096e1a3a2a371ed0cfda4d"
@@ -397,11 +392,6 @@
       "filename": "modonomicon-1.20.1-forge-1.79.3.jar",
       "size": 2239688,
       "sha256": "6a95475102948bff7046b53bc3882ebfdfcf8f0d7a5d14fe612e63680cfe18a3"
-    },
-    {
-      "filename": "occultism-1.20.1-1.158.0.jar",
-      "size": 3960907,
-      "sha256": "21449cefa0a64ab6a8750cdbf1e0f90408366f6e90497cf4d0367c98b2159754"
     },
     {
       "filename": "oculus-mc1.20.1-1.8.0.jar",
@@ -417,11 +407,6 @@
       "filename": "prismprotect-forge-1.3.2-mc1.20.1-1.20.4.jar",
       "size": 13423788,
       "sha256": "8fc4a9d943a786bb9891cb83c8c51291a83e9d876db569d65e8ae649cf93bc00"
-    },
-    {
-      "filename": "proximitychat-1.1.6.jar",
-      "size": 23599,
-      "sha256": "1f600aa3f635d137b4da32a77d2ef2a0b2cb55160a437f5b7f7d078b76f3cd6b"
     },
     {
       "filename": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
@@ -462,11 +447,6 @@
       "filename": "targetedkeepinventory-1.0.0-forge-1.20.1.jar",
       "size": 21220,
       "sha256": "6b661acbc7e7e3c5f27637bffcd16c332f10366e990e83132f56212ccfb59c18"
-    },
-    {
-      "filename": "tl_skin_cape_forge_1.20-1.38.jar",
-      "size": 1180127,
-      "sha256": "a6aa1286aa847ff9b6029c8901bbad30e05b4bcbc967142125c35499dfe5f5d3"
     },
     {
       "filename": "tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
