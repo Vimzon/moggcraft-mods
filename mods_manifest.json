@@ -29,6 +29,11 @@
       "sha256": "97872c9376c3eca6b478b46aade263b77e7588c75be67bdd20422dcf2801b825"
     },
     {
+      "filename": "CraftTweaker-forge-1.20.1-14.0.60.jar",
+      "size": 3271742,
+      "sha256": "6bf5887393268e88ec76dff95af4742277bf955d5130464d4ccf792aed9ab6e8"
+    },
+    {
       "filename": "CreateLazyTick-2.5.15-6.0.x-forge-1.20.1.jar",
       "size": 432964,
       "sha256": "2416aba430bd7d330f956616ab19b4e72531e43e276d218219e5fea284ba77ad"
@@ -57,6 +62,11 @@
       "filename": "EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
       "size": 66883,
       "sha256": "909d1941d4ef6e4b7336738ee31380d6e1117c3c22feb70b64fed47f1cba2b07"
+    },
+    {
+      "filename": "ExtendedAE-1.20-1.4.19-forge.jar",
+      "size": 2972711,
+      "sha256": "89fc6d01d9799a0a06cc51d1230cbe238cd38501bc8396fd7fdf8ebe4a73c79e"
     },
     {
       "filename": "FarmersDelight-1.20.1-1.3.2.jar",
@@ -99,9 +109,9 @@
       "sha256": "d800c6f687c25f156c4ba90b20deaa47eda9c2360c9bdf02fc7a434f78cc935d"
     },
     {
-      "filename": "MoggChat.jar",
-      "size": 130435,
-      "sha256": "7964becdd9f0bb80b4b36616c1fb74abe20d99a6707b6f4ff20e51a4d28f4c21"
+      "filename": "MoggChat-1.0.1-MC1.20.1-1.0.1.jar",
+      "size": 138183,
+      "sha256": "94e120a540b86317de5cbf4287795ebc9809f98768ca79e36476dcff6f20b8e2"
     },
     {
       "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -189,14 +199,24 @@
       "sha256": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af"
     },
     {
+      "filename": "balm-forge-1.20.1-7.3.42.jar",
+      "size": 561670,
+      "sha256": "1abe13b5de575af91ebc073b19e4e2cfedbe795b15f406e9516ed52cbd2de3a6"
+    },
+    {
       "filename": "canary-mc1.20.1-0.3.3.jar",
       "size": 594191,
       "sha256": "51f6d78dd6c7874657e5757fd2f5d780aa3cd415052ad071077b8894c6430942"
     },
     {
-      "filename": "clashcards-1.0.4-forge-1.20.1.jar",
-      "size": 2104289,
-      "sha256": "6d96df161bfa92f98568ef2e00810e693b7961972de3b09f4f835cdcf3e65a49"
+      "filename": "chunkloaders-1.2.9-forge-mc1.20.1.jar",
+      "size": 155478,
+      "sha256": "c2dcafcf63a4141f97e512a2b1c352de918a3e0b915e20d0c1496513235331ce"
+    },
+    {
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "size": 1181413,
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"
     },
     {
       "filename": "collective-1.20.1-8.39.jar",
@@ -262,6 +282,11 @@
       "filename": "ferritecore-6.0.1-forge.jar",
       "size": 123034,
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "filename": "festival-activities-1.20.1-forge.jar",
+      "size": 8300572,
+      "sha256": "d69e2ab08d6503849098e729096154e7c304baf53be07fe25de7d4822227f1c0"
     },
     {
       "filename": "fluid-1.20-2.0.4.jar",
@@ -339,11 +364,6 @@
       "sha256": "01d9a2d1e26fffff78eb47f3e4837189e7567dde849810b1bf6d278520c1e971"
     },
     {
-      "filename": "invtweaks-1.20.1-1.2.2.jar",
-      "size": 75049,
-      "sha256": "54ba6fd7d5e4b9a9dadf6876153b99a94b4997f8d4ee0e46c9c58ea5c8c95802"
-    },
-    {
       "filename": "ironchest-1.20.1-14.4.4.jar",
       "size": 311290,
       "sha256": "6bc75f288d2e8158d2e23c6881a1b341a894c38bab129ca0f20db6abd59d373f"
@@ -382,6 +402,11 @@
       "filename": "lootr-forge-1.20-0.7.35.94.jar",
       "size": 463485,
       "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51"
+    },
+    {
+      "filename": "megacells-forge-2.4.6-1.20.1.jar",
+      "size": 387196,
+      "sha256": "19f59cc793950a3fa80dc1b29ef3bdad587344cd5efe25c5e010f4db1ea4a79c"
     },
     {
       "filename": "modernfix-forge-5.27.66+mc1.20.1.jar",
@@ -439,9 +464,14 @@
       "sha256": "591fa317c4e462039dae01967bf370acb284d5118cf5839a33f1d01b6c0def3c"
     },
     {
-      "filename": "supermartijn642configlib-1.1.8-forge-mc1.20.jar",
-      "size": 206584,
-      "sha256": "bea425ef7e9cd27a7fc0f4b89e00cbd0a1ee050f071ecaa9f28f7238f400f0a3"
+      "filename": "supermartijn642configlib-1.1.6-forge-mc1.20.jar",
+      "size": 205929,
+      "sha256": "93433f0bd95db17a97be8de966b41fa6f0dbbf1050e1de45fb620eeaec752c89"
+    },
+    {
+      "filename": "supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar",
+      "size": 515364,
+      "sha256": "a29c15cf8e2d59d5014691acceb2a0362de25dfefcc53d7ed45aadb94d118807"
     },
     {
       "filename": "targetedkeepinventory-1.0.0-forge-1.20.1.jar",
@@ -472,11 +502,6 @@
       "filename": "worldedit-mod-7.2.15.jar",
       "size": 5825402,
       "sha256": "17db6b3e94f52d25426684663e1e1846823cbb7907f1c365ac329e5bc7bfaf2c"
-    },
-    {
-      "filename": "worldofbosses_0.7.jar",
-      "size": 1614792,
-      "sha256": "d9a3d50defbe34604d8b6125e56bd171ad85a08cfcc72036ec062e64ae838877"
     }
   ]
 }
