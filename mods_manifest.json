@@ -89,6 +89,11 @@
       "sha256": "96068e4d66ea503efebb1e31d28c2d6ce85db749049463cab9f799c8c0ae1e75"
     },
     {
+      "filename": "InventoryProfilesNext-forge-1.20-1.10.20.jar",
+      "size": 1457354,
+      "sha256": "2f664f23ed031f6cfacce01b0461c450e2248435936cb6b7e2e0463c6ec56343"
+    },
+    {
       "filename": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
       "size": 22930,
       "sha256": "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b"
@@ -392,6 +397,11 @@
       "filename": "kotlinforforge-4.12.0-all.jar",
       "size": 7442998,
       "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae"
+    },
+    {
+      "filename": "libIPN-forge-1.20-4.0.2.jar",
+      "size": 693301,
+      "sha256": "cb96fa15eddc74c243677f7f5b6e3ecaa87bb33f4854ae0353646f304058add6"
     },
     {
       "filename": "lodestone-1.20.1-1.6.4.1.jar",
