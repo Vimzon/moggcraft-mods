@@ -114,11 +114,6 @@
       "sha256": "94e120a540b86317de5cbf4287795ebc9809f98768ca79e36476dcff6f20b8e2"
     },
     {
-      "filename": "Moggfestival-1.20.1-forge.jar",
-      "size": 8300572,
-      "sha256": "d69e2ab08d6503849098e729096154e7c304baf53be07fe25de7d4822227f1c0"
-    },
-    {
       "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "size": 76237,
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
@@ -182,6 +177,11 @@
       "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
       "size": 47428,
       "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426"
+    },
+    {
+      "filename": "appliedcreate-1.20.1-1.1.6.jar",
+      "size": 365373,
+      "sha256": "56a7658aca2488807adbc7eb8f45377cf0377650bf0f77f5de46b12721ee54ac"
     },
     {
       "filename": "appliedenergistics2-forge-15.4.10.jar",
@@ -282,6 +282,11 @@
       "filename": "ferritecore-6.0.1-forge.jar",
       "size": 123034,
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
+    },
+    {
+      "filename": "festival-activities-1.20.1-forge.jar",
+      "size": 8323906,
+      "sha256": "14121157168bfa83a44eb19ec257cc3a1daf1101f6674a4063a25476bc00a4c3"
     },
     {
       "filename": "fluid-1.20-2.0.4.jar",
