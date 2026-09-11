@@ -434,6 +434,11 @@
       "sha256": "6a95475102948bff7046b53bc3882ebfdfcf8f0d7a5d14fe612e63680cfe18a3"
     },
     {
+      "filename": "mru-1.0.39+1.20.1-forge.jar",
+      "size": 779427,
+      "sha256": "687f363ce27c7c12fc0348452d824bbaf019d7e392fb920fb58850dd8ed3770d"
+    },
+    {
       "filename": "oculus-mc1.20.1-1.8.0.jar",
       "size": 2851119,
       "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef"
