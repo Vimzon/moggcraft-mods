@@ -119,6 +119,11 @@
       "sha256": "94e120a540b86317de5cbf4287795ebc9809f98768ca79e36476dcff6f20b8e2"
     },
     {
+      "filename": "Moggfestival-1.20.1-forge.jar",
+      "size": 8328150,
+      "sha256": "2e152cfbd3b65b6532885c4ae892cfb1b3da3fb16bcdb3c4b48dcdc8e4fc9a96"
+    },
+    {
       "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
       "size": 76237,
       "sha256": "6c27d16aa715ac6613a55fc463739e2c7b78279e4e4c4cede299e4a2d4a70f08"
@@ -167,6 +172,11 @@
       "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
       "size": 362338,
       "sha256": "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d"
+    },
+    {
+      "filename": "Sounds-2.2.1+1.20.1+forge.jar",
+      "size": 10974911,
+      "sha256": "2fa22c59f967e963c97e7d4374a8713247402fa6c87654b3057a1c248217c7fd"
     },
     {
       "filename": "Steam_Rails-1.7.2+forge-mc1.20.1.jar",
@@ -287,11 +297,6 @@
       "filename": "ferritecore-6.0.1-forge.jar",
       "size": 123034,
       "sha256": "9c2c9396a49e796d88497758caa4637d2bcbb433c318e2dd9cebcffbaf0f6c54"
-    },
-    {
-      "filename": "festival-activities-1.20.1-forge.jar",
-      "size": 8324724,
-      "sha256": "3821056e2e5b41832111a0320c567afbc69c286250db5c841e0ea8d3112cd21a"
     },
     {
       "filename": "fluid-1.20-2.0.4.jar",
