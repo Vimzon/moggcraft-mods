@@ -209,6 +209,11 @@
       "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af"
     },
     {
+      "filename": "ars_additions-1.20.1-1.6.7.jar",
+      "size": 1287601,
+      "sha256": "35639890eefa1ed6635f83ca16b80aeddaa400f2b2340567499e34667a63b428"
+    },
+    {
       "filename": "ars_nouveau-1.20.1-4.12.7-all.jar",
       "size": 12430237,
       "sha256": "1f1debc282a0c379c1141f2840ea294eede6f6b544c589663f40bbe17b59a1af"
@@ -507,6 +512,11 @@
       "filename": "tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
       "size": 715179,
       "sha256": "b7d7c81ecc057a6b00977380d86c0b1730067f7403dca50c88d6aee98ca6aefa"
+    },
+    {
+      "filename": "toomanyglyphs-1.20.1-2.3.2.12345.jar",
+      "size": 102190,
+      "sha256": "8746ce72e1c4e9eac28dc40a26fffa56189efdcbb38ffa752f0fc3d7fadbb33e"
     },
     {
       "filename": "travelersbackpack-forge-1.20.1-9.1.55.jar",
