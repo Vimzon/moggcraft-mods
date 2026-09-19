@@ -120,8 +120,8 @@
     },
     {
       "filename": "Moggfestival-1.20.1-forge.jar",
-      "size": 8328150,
-      "sha256": "2e152cfbd3b65b6532885c4ae892cfb1b3da3fb16bcdb3c4b48dcdc8e4fc9a96"
+      "size": 8328860,
+      "sha256": "104fd4eb6f859c71c882c5e43ebf3d0fbe409752072cf03f891c02f85d2926d6"
     },
     {
       "filename": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
@@ -362,6 +362,11 @@
       "filename": "hammers-2.1.5-1.20.1-forge.jar",
       "size": 92345,
       "sha256": "cb515afb94d24647e5877d68c324567a8f9323ec8c5e7ddcbe5bfe3aace6aff8"
+    },
+    {
+      "filename": "harmfulsmoke-1.0.7-alpha-forge-1.20.1.jar",
+      "size": 168166,
+      "sha256": "deb4012a319923eecc5e8839116cf52e9d4c08ecf5686aae6a3ea0d2ed6684fe"
     },
     {
       "filename": "hierarchy-1_20_1-0_0_8-ru.jar",
