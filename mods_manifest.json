@@ -229,11 +229,6 @@
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
     },
     {
-      "filename": "default_skill_trees-1.1.jar",
-      "size": 11519,
-      "sha256": "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
-    },
-    {
       "filename": "dummmmmmy-1.21-2.0.12-neoforge.jar",
       "size": 219941,
       "sha256": "7fa8869db89b063f71ea6b91719c2f49ce42a75fa809747f3f4ee9fb8058335f"
@@ -484,16 +479,6 @@
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
     },
     {
-      "filename": "puffish_attributes-0.8.3-1.21-neoforge.jar",
-      "size": 235542,
-      "sha256": "b21c165e033360e112eb2c3426437e1ba4ebf70f971535b72b1b1891d04c87f0"
-    },
-    {
-      "filename": "puffish_skills-0.19.1-1.21-neoforge.jar",
-      "size": 653105,
-      "sha256": "e37b27e89d997ad39a0d85aae9cfdaa65cfb367f3e13a99013c9d314dd828e87"
-    },
-    {
       "filename": "refinedstorage-jei-integration-neoforge-1.0.0.jar",
       "size": 58343,
       "sha256": "e1721529412de7be9087702c46acbe1c4d1d594418df73a2bbebe3780396fb79"
@@ -522,6 +507,11 @@
       "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
       "size": 1462674,
       "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
+    },
+    {
+      "filename": "simpleauth-5.1.0.jar",
+      "size": 65477,
+      "sha256": "155af9550998fb088525f6865a32377be683a4138a9f8fddc43c57dbad7823a5"
     },
     {
       "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
