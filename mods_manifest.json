@@ -254,6 +254,11 @@
       "sha256": "3983b981da4a0583c7e58184a8631a23e56cc3b81f4cb53491ca600382879b82"
     },
     {
+      "filename": "factions-1.2.0-ru.jar",
+      "size": 42535,
+      "sha256": "7865d9df109a106a2d352d567a26f2673328b2440a959c11dd567a3c6ca55b8b"
+    },
+    {
       "filename": "ferritecore-7.0.3-neoforge.jar",
       "size": 121559,
       "sha256": "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8"
@@ -422,6 +427,11 @@
       "filename": "mekmm-1.21.1-1.4.1.jar",
       "size": 3659440,
       "sha256": "58d4eb5630c179f54cea6c91180eb4c1ba27f70ef2417d73d78be76061791219"
+    },
+    {
+      "filename": "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.5.jar",
+      "size": 741784,
+      "sha256": "a8811c08b4283be65b9623d66776a45064ff7b5213295d5e3a31f1f3453b140f"
     },
     {
       "filename": "modernfix-neoforge-5.19.0+mc1.21.jar",
