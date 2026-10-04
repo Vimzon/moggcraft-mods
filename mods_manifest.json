@@ -324,6 +324,11 @@
       "sha256": "a2a020b85abe9e5ad2ce9e760db57e9c79aa57cf6dae56bbfd4eb0ed5d5928f9"
     },
     {
+      "filename": "hammers-2.1.5-1.21.1-neoforge.jar",
+      "size": 98840,
+      "sha256": "29b7d9889babc3fbe073c066df124f72f92be6c9f6906e5842b10bd26313ace8"
+    },
+    {
       "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
       "size": 7132842,
       "sha256": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
