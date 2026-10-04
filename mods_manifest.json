@@ -424,6 +424,11 @@
       "sha256": "58d4eb5630c179f54cea6c91180eb4c1ba27f70ef2417d73d78be76061791219"
     },
     {
+      "filename": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
+      "size": 327173,
+      "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb"
+    },
+    {
       "filename": "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.5.jar",
       "size": 741784,
       "sha256": "a8811c08b4283be65b9623d66776a45064ff7b5213295d5e3a31f1f3453b140f"
