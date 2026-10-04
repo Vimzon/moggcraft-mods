@@ -529,9 +529,9 @@
       "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
     },
     {
-      "filename": "simpleauth-5.1.0.jar",
-      "size": 65477,
-      "sha256": "155af9550998fb088525f6865a32377be683a4138a9f8fddc43c57dbad7823a5"
+      "filename": "simpleauth-5.2.0.jar",
+      "size": 68117,
+      "sha256": "04f4c6caff8f8529eb23708dc6dfe1ab3a16b176a290b02763fc3fe2261fbf31"
     },
     {
       "filename": "sodium-neoforge-0.8.13+mc1.21.1.jar",
