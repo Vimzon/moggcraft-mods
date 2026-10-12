@@ -294,6 +294,11 @@
       "sha256": "f587e13131101bac33d4cc7a04d13d06c00f8f88a892be90d6ffc8ad96119ae8"
     },
     {
+      "filename": "ftbregions-1.21.1-1.2.0.jar",
+      "size": 57060,
+      "sha256": "7da4682d719e72ccad8c275e98b4d36bba6972f8ac283fe2a7a693f1b09c4dbe"
+    },
+    {
       "filename": "fzzy_config-0.7.7+1.21+neoforge.jar",
       "size": 2392693,
       "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85"
