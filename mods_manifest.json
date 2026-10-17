@@ -204,6 +204,11 @@
       "sha256": "a0271a24db8622434d9573c5e789d451a05c9211173885049284e1911e2499c7"
     },
     {
+      "filename": "carryon-neoforge-1.21.1-2.2.6.13.jar",
+      "size": 361486,
+      "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
+    },
+    {
       "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
       "size": 15020578,
       "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
@@ -230,8 +235,8 @@
     },
     {
       "filename": "dungeonmod-0.23.2.jar",
-      "size": 237509,
-      "sha256": "a0ef3d8577448c859582aca80274c6d5131b8ffb8ae4580704ed6780fed38b72"
+      "size": 238808,
+      "sha256": "007fddcb990c32c976cb02626583f128648c97b839dc8168bf26d6f094015f38"
     },
     {
       "filename": "dynamic_difficulty-neoforge-1.1.1+1.21.1.jar",
