@@ -29,6 +29,11 @@
       "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
     },
     {
+      "filename": "CraterLib-Neoforge-1.21-3.1.3.jar",
+      "size": 1485401,
+      "sha256": "a0f41b3a262d5f9a6dd090c0aade394a687a613daa70e549210de0834954c51e"
+    },
+    {
       "filename": "CreateDragonsPlus-1.11.9.jar",
       "size": 1085674,
       "sha256": "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
@@ -69,19 +74,14 @@
       "sha256": "e9635613326e67d44c55578a49d947e5cbd22a33977e213f83f686cde8586218"
     },
     {
-      "filename": "MaintenanceMode-NeoForge-1.21-1.2.0.jar",
-      "size": 1232547,
-      "sha256": "ecaa295c841b4e8539685188b1b42e8a8312e55fec8999017fbd8244b0766b09"
+      "filename": "MaintenanceMode-Universal-1.3.4.jar",
+      "size": 268279,
+      "sha256": "a905c6bc6a1d0925be505740916df01daf3e8c0c1cedda1674dea6d682a93105"
     },
     {
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "size": 73938,
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
-    },
-    {
-      "filename": "ScalableLux-0.1.0.1+neoforge.1cb1e91-all.jar",
-      "size": 176443,
-      "sha256": "74340a37af858014ecf66068054bed3ab778b22d24956d348a2ec2bc3c585cb5"
     },
     {
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
@@ -204,11 +204,6 @@
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
     },
     {
-      "filename": "curios-neoforge-9.6.0-1.21.1.jar",
-      "size": 411707,
-      "sha256": "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e"
-    },
-    {
       "filename": "default_skill_trees-1.1.jar",
       "size": 11519,
       "sha256": "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
@@ -309,11 +304,6 @@
       "sha256": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf"
     },
     {
-      "filename": "jei-1.21.1-neoforge-19.57.0.447.jar",
-      "size": 2252654,
-      "sha256": "10753755e6036fbec413cff4285b18493ce2e57a0cdd9bf10a638e3bbc8a11f9"
-    },
-    {
       "filename": "jei-1.21.1-neoforge-19.76.1.478.jar",
       "size": 7103771,
       "sha256": "b2619655dceebd49ea6ec84a3cb32863e6ac44857303834615c300689c3ec222"
@@ -354,19 +344,14 @@
       "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
     },
     {
-      "filename": "mezz_config-1.21.1-neoforge-0.6.8-standalone.jar",
-      "size": 327173,
-      "sha256": "182ad8ad757175b49d573512c8fac624ee526e8138e24b36f677b0f6466e20cb"
-    },
-    {
       "filename": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
       "size": 347249,
       "sha256": "c42510938584eda0aae134003e367d745fd32ceac1836221cecac4cbc7bfa3a1"
     },
     {
-      "filename": "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.5.5.jar",
-      "size": 741784,
-      "sha256": "a8811c08b4283be65b9623d66776a45064ff7b5213295d5e3a31f1f3453b140f"
+      "filename": "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.7.1.jar",
+      "size": 852635,
+      "sha256": "1d01f5796b9ae5040ce59eee5908a6e1ef3ce84e0a77f95b2f8d3b66f5de6742"
     },
     {
       "filename": "modernfix-neoforge-5.19.0+mc1.21.jar",
@@ -457,11 +442,6 @@
       "filename": "sophisticatedcore-1.21.1-1.5.1.2341.jar",
       "size": 1785221,
       "sha256": "48d9b3703fedb455fc0aef1f57089f90cc0d2a2400979cef3bc37763fa125c41"
-    },
-    {
-      "filename": "sound-physics-remastered-neoforge-1.21.1-1.4.10.jar",
-      "size": 199309,
-      "sha256": "989d1308cc663cb56008802c248567a17d9c7832628fc62cd0f606ee9268ca42"
     },
     {
       "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
