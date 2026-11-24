@@ -4,11 +4,6 @@
   "base_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/mods/",
   "mods": [
     {
-      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
-      "size": 283566,
-      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
-    },
-    {
       "filename": "Chunky-NeoForge-1.4.23.jar",
       "size": 340572,
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
@@ -117,11 +112,6 @@
       "filename": "Thaumaturge-Tinkers-1.21.1-1.1.3.jar",
       "size": 2955741,
       "sha256": "34094af9b2eb60e2e4841294822d5fbdfc536f191b554b401715598748c1cfa0"
-    },
-    {
-      "filename": "TouchController-0.3.1-alpha17+neoforge.jar",
-      "size": 13097657,
-      "sha256": "a6cf089a2adf5fe8fa0d1726e05730ee928fd8781ae23fe0d49560c5c3281b59"
     },
     {
       "filename": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -272,11 +262,6 @@
       "filename": "dimworldborder-1.21.1-1.1.1-universal.jar",
       "size": 283311,
       "sha256": "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
-    },
-    {
-      "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
-      "size": 220193,
-      "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
     },
     {
       "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
