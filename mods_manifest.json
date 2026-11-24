@@ -44,6 +44,11 @@
       "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
     },
     {
+      "filename": "FerrumWhiteList-1.0.0_neoforge_1.21.1.227-230.jar",
+      "size": 14999,
+      "sha256": "8dfaf97a76a628669d1c6b4774e2e32bc27949ede31d497081625280808a84b6"
+    },
+    {
       "filename": "Glodium-1.21-2.2-neoforge.jar",
       "size": 61377,
       "sha256": "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"
@@ -57,6 +62,11 @@
       "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
       "size": 1295466,
       "sha256": "05f1b8660f74f543fba61d4ce7cf8632d4c69a95b7c15b1a6fd442be2e397ca6"
+    },
+    {
+      "filename": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
+      "size": 24037,
+      "sha256": "a010b32a31f59110cc0addcbe789ce42e76131bb131ede73b0e078e736fd3c68"
     },
     {
       "filename": "Jade-1.21.1-NeoForge-15.10.6.jar",
@@ -79,14 +89,34 @@
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
     },
     {
+      "filename": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+      "size": 29865,
+      "sha256": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14"
+    },
+    {
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "size": 77326,
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
     },
     {
+      "filename": "TAB-5.5.0.jar",
+      "size": 4025747,
+      "sha256": "abadbe8cf11b0736fdf3cdbac22a0518590acd118813983e99a6d16e9b94d985"
+    },
+    {
+      "filename": "Terralith_1.21.1_v2.6.2_Neoforge.jar",
+      "size": 2814865,
+      "sha256": "d38bd304897731b42f6c013cdc07e082e74411e80c74aabcee385251beb3b546"
+    },
+    {
       "filename": "Thaumaturge-Tinkers-1.21.1-1.1.3.jar",
       "size": 2955741,
       "sha256": "34094af9b2eb60e2e4841294822d5fbdfc536f191b554b401715598748c1cfa0"
+    },
+    {
+      "filename": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "size": 1078697,
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
     },
     {
       "filename": "adaptive_performance_tweaks-neoforge-1.21.1-12.9.0.jar",
@@ -229,6 +259,11 @@
       "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
     },
     {
+      "filename": "dimworldborder-1.21.1-1.1.1-universal.jar",
+      "size": 283311,
+      "sha256": "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
+    },
+    {
       "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
       "size": 82648,
       "sha256": "868d3eab3305d96dd3ecf510d18a7aa7444e2aea168695cf4aff23a96bec975f"
@@ -262,6 +297,11 @@
       "filename": "forsakenmagic-1.21.1-0.13.0.jar",
       "size": 2591469,
       "sha256": "6c9083eb59f08d119daf9ef56824d91ea77429d9de85fdebe5af0007064a2d7f"
+    },
+    {
+      "filename": "ftb-backups-3-21.1.4.jar",
+      "size": 91097,
+      "sha256": "8c796245c50d56e62aca222f63cdb9180306bcff237ed48d3c27f7a08e1728d4"
     },
     {
       "filename": "ftb-chunks-neoforge-2101.1.22.jar",
@@ -299,6 +339,16 @@
       "sha256": "f587e13131101bac33d4cc7a04d13d06c00f8f88a892be90d6ffc8ad96119ae8"
     },
     {
+      "filename": "fzzy_config-0.7.7+1.21+neoforge.jar",
+      "size": 2392693,
+      "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "size": 634531,
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
+    },
+    {
       "filename": "gravestone-neoforge-1.21.1-1.0.40.jar",
       "size": 322082,
       "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
@@ -314,6 +364,11 @@
       "sha256": "29b7d9889babc3fbe073c066df124f72f92be6c9f6906e5842b10bd26313ace8"
     },
     {
+      "filename": "individualkeepinventory-2.3.0.jar",
+      "size": 20838,
+      "sha256": "ce96d526170b387521963fbf988ecb2a75f8a4839aeeb1e8e397d2e9db96c39c"
+    },
+    {
       "filename": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
       "size": 236206,
       "sha256": "1bbd368273b299857ccdb236d096169d289513f67e7561d4743375b55f5a584a"
@@ -327,6 +382,11 @@
       "filename": "ironchest-1.21-neoforge-16.0.7.jar",
       "size": 305975,
       "sha256": "dae66a38a33c2adac6ca0b7a4fbf4b365ba37a6a1f7a10961028617965c1fcaf"
+    },
+    {
+      "filename": "jamlib-neoforge-1.3.6+1.21.1.jar",
+      "size": 188553,
+      "sha256": "911afdfe717a2375a651253e282ac9e769f8bead381d33c2167955c25eefe514"
     },
     {
       "filename": "jei-1.21.1-neoforge-19.76.1.478.jar",
@@ -347,6 +407,11 @@
       "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
       "size": 626146,
       "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
+    },
+    {
+      "filename": "lionfishapi-3.1.jar",
+      "size": 91596,
+      "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
     },
     {
       "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -384,6 +449,21 @@
       "sha256": "f210ae442b0a6e943d8260b67feca449ba57b627428d6cb6e3ba04c2f7a4ff23"
     },
     {
+      "filename": "moggchat-2.1.0.jar",
+      "size": 15435,
+      "sha256": "138698d2b4ac872678430f4ff121118b434c4a13a9793a8dff797ec34caa361f"
+    },
+    {
+      "filename": "moggclear-1.0.0.jar",
+      "size": 140967,
+      "sha256": "b862efb598b69aae90132002a5008dd47ef32ded7ef1030df5fc2316363b3c40"
+    },
+    {
+      "filename": "moggwatch-1.0.0.jar",
+      "size": 26887,
+      "sha256": "a2eb88e7be50a907ae2dda4dfa86c76d9878f5b3bb84006e2fc607cda6621ad8"
+    },
+    {
       "filename": "moreculling-neoforge-1.21.1-1.0.10.jar",
       "size": 335699,
       "sha256": "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3"
@@ -409,6 +489,11 @@
       "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
     },
     {
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+    },
+    {
       "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
       "size": 84812,
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
@@ -432,6 +517,16 @@
       "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
       "size": 12118736,
       "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+    },
+    {
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
+    },
+    {
+      "filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+      "size": 287634,
+      "sha256": "b5d597ed361964ba9530a848fe8987715f40af2390dfa1a6adb70a2a74076d52"
     },
     {
       "filename": "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar",
@@ -487,6 +582,11 @@
       "filename": "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar",
       "size": 202454,
       "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
+    },
+    {
+      "filename": "spark-1.10.124-neoforge.jar",
+      "size": 3642581,
+      "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
     },
     {
       "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
