@@ -4,11 +4,6 @@
   "base_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/mods/",
   "mods": [
     {
-      "filename": "Almanac-1.21.1-2-neoforge-1.5.2.jar",
-      "size": 25593,
-      "sha256": "379893246c33aaa6dd8e4a8711e349cd6835e08c2bd5b8bd7b7e81be9822aacb"
-    },
-    {
       "filename": "Chunky-NeoForge-1.4.23.jar",
       "size": 340572,
       "sha256": "d72f235cf1f56f2c374f52c00bdda5034524b28142305a84cfc123a3f92ad274"
@@ -29,14 +24,19 @@
       "sha256": "cc525fb6b030d9e4d33176983f278919e17b33935e2ca568929bdfa98f2b44a0"
     },
     {
-      "filename": "CraterLib-Neoforge-1.21-3.1.3.jar",
-      "size": 1485401,
-      "sha256": "a0f41b3a262d5f9a6dd090c0aade394a687a613daa70e549210de0834954c51e"
-    },
-    {
       "filename": "CreateDragonsPlus-1.11.9.jar",
       "size": 1085674,
       "sha256": "37f05a6775bbe811fe8c2833fa6289a1c704d0b25bdd5f239d343a5c6f62ed8a"
+    },
+    {
+      "filename": "CreativeCore_NEOFORGE_v2.13.55_mc1.21.1.jar",
+      "size": 1240240,
+      "sha256": "ccb93aa76b22ee49c75864f82c832b29531f8ef1319896abdd68176c064af512"
+    },
+    {
+      "filename": "ExtendedAE-1.21-2.2.43-neoforge.jar",
+      "size": 5913764,
+      "sha256": "d723ad922d51868eaa393aa6c5439ce21ead37562dc48f29a08ef5828e841838"
     },
     {
       "filename": "FarmersDelight-1.21.1-1.3.4.jar",
@@ -44,9 +44,9 @@
       "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
     },
     {
-      "filename": "FerrumWhiteList-1.0.0_neoforge_1.21.1.227-230.jar",
-      "size": 14999,
-      "sha256": "8dfaf97a76a628669d1c6b4774e2e32bc27949ede31d497081625280808a84b6"
+      "filename": "Glodium-1.21-2.2-neoforge.jar",
+      "size": 61377,
+      "sha256": "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"
     },
     {
       "filename": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
@@ -74,11 +74,6 @@
       "sha256": "e9635613326e67d44c55578a49d947e5cbd22a33977e213f83f686cde8586218"
     },
     {
-      "filename": "MaintenanceMode-Universal-1.3.4.jar",
-      "size": 268279,
-      "sha256": "a905c6bc6a1d0925be505740916df01daf3e8c0c1cedda1674dea6d682a93105"
-    },
-    {
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
       "size": 73938,
       "sha256": "68e6f4201c5de97b77929a7215c9552495696ca6a3bf3ae4eacc34e135f6cc8b"
@@ -87,11 +82,6 @@
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "size": 77326,
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
-    },
-    {
-      "filename": "TAB-5.5.0.jar",
-      "size": 4025747,
-      "sha256": "abadbe8cf11b0736fdf3cdbac22a0518590acd118813983e99a6d16e9b94d985"
     },
     {
       "filename": "Thaumaturge-Tinkers-1.21.1-1.1.3.jar",
@@ -104,6 +94,11 @@
       "sha256": "eaef9375e11582215d10da918343aea9e568e37981ae9049433e92702c5fe7cc"
     },
     {
+      "filename": "ae2wtlib-19.5.1.jar",
+      "size": 252091,
+      "sha256": "407e7300351353cb4cb7698286e180aef2bd6e7a97ec7efc6493f9daa4dbffe5"
+    },
+    {
       "filename": "aeroworks-1.5.0.jar",
       "size": 790152,
       "sha256": "7e9745569a75eb613a9f75c9308aa2c806d3f0fab3a272d98647a13d3fa41641"
@@ -114,14 +109,39 @@
       "sha256": "65202adf4dccf7b3033537e539e23eccc541c6a15ad88d87fa1c5a09ceb3359f"
     },
     {
+      "filename": "appliedcreate-1.21.1-1.1.8.jar",
+      "size": 442774,
+      "sha256": "e05cb882fb141c6aae568fbfbb098877fc24a8dbeed0374ecf025c096432b26e"
+    },
+    {
+      "filename": "appliedenergistics2-19.2.20.jar",
+      "size": 8242323,
+      "sha256": "219cbf2b3e677567d843ddeea568eda75db35dea545b04b7b904c8587c264077"
+    },
+    {
+      "filename": "appliedthaumaturge-1.21.1-1.1.0-BETA.jar",
+      "size": 1471571,
+      "sha256": "27e614bb6f2e5ede36afaad1941f7172656e37df23d91f51a34ba49e9736c309"
+    },
+    {
       "filename": "architectury-13.0.11-neoforge.jar",
       "size": 584734,
       "sha256": "9cc92f2c09533fc5482c60f993bd891c655a0e32b637037cdcb7c2b23adedeeb"
     },
     {
+      "filename": "aspect_interpreter-1.7.0-neoforge-1.21.1.jar",
+      "size": 125094,
+      "sha256": "abf56c16c7929a52eb833456e528996cf291a84ac8184491f43b6a966102365f"
+    },
+    {
       "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
       "size": 193619,
       "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
+    },
+    {
+      "filename": "blockshin-menu-1.21.1-neoforge-1.0.1.jar",
+      "size": 5321520,
+      "sha256": "5955100a5d5b1bbaf7c18840af4a1b50089369988aa5550f972435c629c5d80c"
     },
     {
       "filename": "bookshelf-neoforge-1.21.1-21.1.81.jar",
@@ -154,7 +174,7 @@
       "sha256": "ef87fe5709f1ba1f5b8bb20a2925b5afb4669e178fd6d8bf10c167759eefe37a"
     },
     {
-      "filename": "create-aeronautics-bundled-1.21.1-1.3.3.1.jar",
+      "filename": "create-aeronautics-bundled-1.21.1-1.3.3(1).jar",
       "size": 33133981,
       "sha256": "f430c52eedc1a20f7458c9f5b07cc212fe90869bd302c69c6dedf7b75a2a5c9f"
     },
@@ -184,6 +204,11 @@
       "sha256": "71e9c3ac39089e72c1e47a129a44e41eb55efc9534eecfdead8da8fb64313414"
     },
     {
+      "filename": "createaddoncompatibility-neoforge-1.21.1-1.0.0.jar",
+      "size": 158395,
+      "sha256": "fc48e02329e3248ec5c983819192ce3a2c47c9adde233e70f3b0822b466e1374"
+    },
+    {
       "filename": "createbigcannons-5.11.7+mc.1.21.1.jar",
       "size": 3771506,
       "sha256": "ea017ab94637032d039899d88404838d173fa0e6286657cae6a6c3af459e87ca"
@@ -199,19 +224,9 @@
       "sha256": "e04eba6ea9b959f0e8fdfe2aeceafd445ccd777a0a0e5aacd011123d49cdffcd"
     },
     {
-      "filename": "curios-neoforge-9.5.1+1.21.1.jar",
-      "size": 410690,
-      "sha256": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde"
-    },
-    {
-      "filename": "default_skill_trees-1.1.jar",
-      "size": 11519,
-      "sha256": "6038a4843f19ad09972cf8b218ea311ed86188c9575c866c7903202660de5d4f"
-    },
-    {
-      "filename": "dimworldborder-1.21.1-1.1.1-universal.jar",
-      "size": 283311,
-      "sha256": "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
+      "filename": "curios-neoforge-9.6.0-1.21.1.jar",
+      "size": 411707,
+      "sha256": "5ae6703ac25a5cfb138ce34924799b642021c8109aacef578e899e8591d67a3e"
     },
     {
       "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
@@ -222,6 +237,11 @@
       "filename": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
       "size": 1510018,
       "sha256": "3983b981da4a0583c7e58184a8631a23e56cc3b81f4cb53491ca600382879b82"
+    },
+    {
+      "filename": "extendedae_plus-1.6.4.2.jar",
+      "size": 1451560,
+      "sha256": "b7c58f1f4cd2208c054c04a8d2d02b566ec1da3f869a4dd0728688f7bf64f5c3"
     },
     {
       "filename": "ferritecore-7.0.3-neoforge.jar",
@@ -279,14 +299,14 @@
       "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
     },
     {
+      "filename": "guideme-21.1.22.jar",
+      "size": 9332340,
+      "sha256": "108337ff98c706b18ed2fbec077b3337ba72c08f8b46a273534886280e89ef0d"
+    },
+    {
       "filename": "hammers-2.1.5-1.21.1-neoforge.jar",
       "size": 98840,
       "sha256": "29b7d9889babc3fbe073c066df124f72f92be6c9f6906e5842b10bd26313ace8"
-    },
-    {
-      "filename": "individualkeepinventory-2.3.0.jar",
-      "size": 20838,
-      "sha256": "ce96d526170b387521963fbf988ecb2a75f8a4839aeeb1e8e397d2e9db96c39c"
     },
     {
       "filename": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
@@ -314,9 +334,9 @@
       "sha256": "1aa52c3e992d8ee4d1b9e9bdb0c62bf7ad03845195136d63f312ade6f30809de"
     },
     {
-      "filename": "letmedespawn-1.21.x-neoforge-1.5.0.jar",
-      "size": 14911,
-      "sha256": "074ffdbe34bf97b7d15fa4db7cfff547578a9c2f547479128a43d184c4ca642a"
+      "filename": "ldlib2-neoforge-1.21.1-2.2.47-all.jar",
+      "size": 8158871,
+      "sha256": "dadb7ac4e9c0332194d2ffcce453812daae7442cc378c644d0936cc560da30f6"
     },
     {
       "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
@@ -339,6 +359,11 @@
       "sha256": "ebcfd1238c323f21d022102270fbc1d172eb6f055936b345bc08b1ca2c9ef8c3"
     },
     {
+      "filename": "madmans_dreams-1.21.1-0.38.4.jar",
+      "size": 6891680,
+      "sha256": "db2e350c223a7871fcbb4bcc9db2c01e3d2368255b38349110a337aca978ac9a"
+    },
+    {
       "filename": "mafglib-0.4.3+mc1.21.1.jar",
       "size": 1314767,
       "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
@@ -349,24 +374,9 @@
       "sha256": "c42510938584eda0aae134003e367d745fd32ceac1836221cecac4cbc7bfa3a1"
     },
     {
-      "filename": "mezz_config_gui-1.21.1-neoforge-mc1.21.1-0.7.1.jar",
-      "size": 852635,
-      "sha256": "1d01f5796b9ae5040ce59eee5908a6e1ef3ce84e0a77f95b2f8d3b66f5de6742"
-    },
-    {
       "filename": "modernfix-neoforge-5.19.0+mc1.21.jar",
       "size": 471945,
       "sha256": "f210ae442b0a6e943d8260b67feca449ba57b627428d6cb6e3ba04c2f7a4ff23"
-    },
-    {
-      "filename": "moggchat-2.1.0.jar",
-      "size": 15435,
-      "sha256": "138698d2b4ac872678430f4ff121118b434c4a13a9793a8dff797ec34caa361f"
-    },
-    {
-      "filename": "moggclear-1.0.0.jar",
-      "size": 141779,
-      "sha256": "f17f5b9f43e5c81ca3144abfc6fb83779a2bb459eb2f8a37f4121a386ba0bb23"
     },
     {
       "filename": "moreculling-neoforge-1.21.1-1.0.10.jar",
@@ -394,6 +404,16 @@
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
     },
     {
+      "filename": "puffish_attributes-0.8.3-1.21-neoforge.jar",
+      "size": 234307,
+      "sha256": "0f8f27569a5b9d07ba6c1ca2c922649e6ce2d5253bfc00a1e522df5fc56caeee"
+    },
+    {
+      "filename": "puffish_skills-0.19.2-1.21-neoforge.jar",
+      "size": 640902,
+      "sha256": "8a1cb6ce95de32c22ec831e3ea06a6a8abdc122b3e9458f870d23253ee3407d4"
+    },
+    {
       "filename": "quickskin-neoforge-1.21.1-3.1.0.jar",
       "size": 5431785,
       "sha256": "eebf1186e5808914f9f6bf758f1cca587a3a2c3dabf1457d7eea2ebe4e7f103f"
@@ -409,6 +429,11 @@
       "sha256": "cc509060833736fb650aa4c36b1ce33a7eeeb9ca6e9f8e80a7c951c9e7487b24"
     },
     {
+      "filename": "rpg-skill-tree-1.3.0.jar",
+      "size": 397175,
+      "sha256": "8cedb41cc08abd270d5f3f73c52d39cd01959b27197f7a793f7d21a62810bbd4"
+    },
+    {
       "filename": "sable-neoforge-1.21.1-2.0.6.jar",
       "size": 12986135,
       "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
@@ -417,6 +442,11 @@
       "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
       "size": 1462674,
       "sha256": "a5706aa0bb3a47c5f1adab44306685736688ec03414f60beb4fcbe05b99f5a82"
+    },
+    {
+      "filename": "serverpanel-1.21.1-1.0.0.jar",
+      "size": 103931,
+      "sha256": "74af37e27ab00cc8a4c932c84e8c2cacb8fbc5fe4ba43fe3c29818844da22f2e"
     },
     {
       "filename": "simpleauth-5.3.0.jar",
@@ -449,11 +479,6 @@
       "sha256": "bddc71ecd4f074a101eb3785599d13c69e64025e1029aa0fd0a28fcf9bccf2ea"
     },
     {
-      "filename": "spark-1.10.124-neoforge.jar",
-      "size": 3642581,
-      "sha256": "647e8a81afbe414dba1df4ba15fd06c5d32d4cb544e68828405e8e074c2e16db"
-    },
-    {
       "filename": "supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
       "size": 207514,
       "sha256": "d2ba7b839a2268e4e223457e813d11aa2476c3bf708a7bba691d8fc851778a4b"
@@ -470,8 +495,13 @@
     },
     {
       "filename": "thaumaturge-1.21.1-NeoForge-1.1.0.jar",
-      "size": 33871158,
-      "sha256": "e79f45591f96180ce626b3819a8e4263305e5106f0c62cb1ee5ee057c7d8a365"
+      "size": 33875162,
+      "sha256": "3cfad6b2ef5b2a89cdc3672326e0d02c5e11cade9b7c70364ca80057bbaedc9f"
+    },
+    {
+      "filename": "thaumic_decoration-1.21.1-0.3.0.jar",
+      "size": 693262,
+      "sha256": "26cd196bb2bd7b4cf5e09d8a31a0e3f391e20b4b47d79e1fb70e839b484ace57"
     },
     {
       "filename": "voicechat-neoforge-1.21.1-2.6.24.jar",
