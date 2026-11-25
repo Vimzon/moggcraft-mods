@@ -184,6 +184,11 @@
       "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
     },
     {
+      "filename": "chattags-neoforge-1.21.1-1.0.0.jar",
+      "size": 77395,
+      "sha256": "18ead56b01b577bf34dce4d005b51c3c9cf19816e737d702508bed2d059c1054"
+    },
+    {
       "filename": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
       "size": 146058,
       "sha256": "6802c2b7ea859711462f64114c9e7ff4352a92c844a9a8f195056c8383a29147"
@@ -432,6 +437,11 @@
       "filename": "mafglib-0.4.3+mc1.21.1.jar",
       "size": 1314767,
       "sha256": "d40789ad40e5643ae232a07b4535135fe56585c12538bc30158076f956aab081"
+    },
+    {
+      "filename": "manicule-neoforge-1.21.1-1.0.1.jar",
+      "size": 11485,
+      "sha256": "31c43f17258289f86755d3d5862f543303851fbbcdfa7b74f8df701b76ca7cdd"
     },
     {
       "filename": "mezz_config-1.21.1-neoforge-0.7.1-standalone.jar",
