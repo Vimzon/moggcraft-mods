@@ -39,6 +39,11 @@
       "sha256": "d723ad922d51868eaa393aa6c5439ce21ead37562dc48f29a08ef5828e841838"
     },
     {
+      "filename": "FallingTree-1.21.1-1.21.1.11.jar",
+      "size": 496356,
+      "sha256": "b07cb3fe67d1f3bb66daf8836373614153790cfaa8c64fadbf53479d1b33cc54"
+    },
+    {
       "filename": "FarmersDelight-1.21.1-1.3.4.jar",
       "size": 3160490,
       "sha256": "139ad7696462c89c03eea463f805abffa552526c5dadaadae221dd9624cb197c"
@@ -82,6 +87,11 @@
       "filename": "JustEnoughResources-NeoForge-1.21.1-1.6.0.12.jar",
       "size": 286072,
       "sha256": "e9635613326e67d44c55578a49d947e5cbd22a33977e213f83f686cde8586218"
+    },
+    {
+      "filename": "KotlinLangForge-2.20.1-k2.4.21-3.0+neoforge.jar",
+      "size": 8244141,
+      "sha256": "be487894e2d6dcd742a18af83f4f652c458449ff6cf9c86e579b70aac187007f"
     },
     {
       "filename": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -592,6 +602,11 @@
       "filename": "thaumic_decoration-1.21.1-0.3.0.jar",
       "size": 693262,
       "sha256": "26cd196bb2bd7b4cf5e09d8a31a0e3f391e20b4b47d79e1fb70e839b484ace57"
+    },
+    {
+      "filename": "veinminer-neoforge-2.14.0+1.21.1.jar",
+      "size": 896770,
+      "sha256": "bdf08006c0488fcacff5779b7c7a6c2809752d7f16e60b7fd0ab9561b64a406e"
     },
     {
       "filename": "voicechat-neoforge-1.21.1-2.6.24.jar",
