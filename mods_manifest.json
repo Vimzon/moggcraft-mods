@@ -1,8 +1,13 @@
 {
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.251",
-  "base_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/mods/",
+  "base_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/mods-android/",
   "mods": [
+    {
+      "filename": "BadOptimizations-2.4.1-1.21.1.jar",
+      "size": 283566,
+      "sha256": "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba"
+    },
     {
       "filename": "Chunky-NeoForge-1.4.23.jar",
       "size": 340572,
@@ -52,11 +57,6 @@
       "filename": "Glodium-1.21-2.2-neoforge.jar",
       "size": 61377,
       "sha256": "369e99753df0bdc90a38a8c52df4abb37baf6b18c6ca130af4c7bc75fb160a85"
-    },
-    {
-      "filename": "ImmediatelyFast-NeoForge-1.6.14+1.21.1.jar",
-      "size": 365195,
-      "sha256": "15bf9bd6d8e3ae8ad35c5a4d90680424b534d9762d698c0a466965afcab5dd78"
     },
     {
       "filename": "InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar",
@@ -112,6 +112,11 @@
       "filename": "Thaumaturge-Tinkers-1.21.1-1.1.3.jar",
       "size": 2955741,
       "sha256": "34094af9b2eb60e2e4841294822d5fbdfc536f191b554b401715598748c1cfa0"
+    },
+    {
+      "filename": "TouchController-0.3.1-alpha17+neoforge.jar",
+      "size": 13097657,
+      "sha256": "a6cf089a2adf5fe8fa0d1726e05730ee928fd8781ae23fe0d49560c5c3281b59"
     },
     {
       "filename": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
@@ -264,14 +269,14 @@
       "sha256": "c90ae5e76ea622f2ba19160a3cb742f4a2d4a876ce01eadb6fb70fd3d5d115b7"
     },
     {
+      "filename": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "size": 220193,
+      "sha256": "78cb67c9faeff5d1cb4da48d41e48ecc47baddaaec0f792e6edc8207aee0ab8e"
+    },
+    {
       "filename": "enchdesc-neoforge-1.21.1-21.1.11.jar",
       "size": 82648,
       "sha256": "868d3eab3305d96dd3ecf510d18a7aa7444e2aea168695cf4aff23a96bec975f"
-    },
-    {
-      "filename": "entityculling-neoforge-1.11.2-mc1.21.1.jar",
-      "size": 1510018,
-      "sha256": "3983b981da4a0583c7e58184a8631a23e56cc3b81f4cb53491ca600382879b82"
     },
     {
       "filename": "extendedae_plus-1.6.4.2.jar",
@@ -372,11 +377,6 @@
       "filename": "inventoryhud.neoforged.1.21.1-3.4.28.jar",
       "size": 236206,
       "sha256": "1bbd368273b299857ccdb236d096169d289513f67e7561d4743375b55f5a584a"
-    },
-    {
-      "filename": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
-      "size": 2540723,
-      "sha256": "60d5f8bf52f25e9986440f4a4270a6bd986d9cff994510e1108ac1547063b314"
     },
     {
       "filename": "ironchest-1.21-neoforge-16.0.7.jar",
