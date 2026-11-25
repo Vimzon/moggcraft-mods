@@ -114,6 +114,11 @@
       "sha256": "34094af9b2eb60e2e4841294822d5fbdfc536f191b554b401715598748c1cfa0"
     },
     {
+      "filename": "accessories-neoforge-1.1.0-beta.53+1.21.1.jar",
+      "size": 1078697,
+      "sha256": "10017a3da78ea63e9ece27a1ca32f8cf490362f348778cf8cb759e7282f3beb0"
+    },
+    {
       "filename": "adaptive_performance_tweaks-neoforge-1.21.1-12.9.0.jar",
       "size": 470542,
       "sha256": "eaef9375e11582215d10da918343aea9e568e37981ae9049433e92702c5fe7cc"
@@ -329,6 +334,16 @@
       "sha256": "f587e13131101bac33d4cc7a04d13d06c00f8f88a892be90d6ffc8ad96119ae8"
     },
     {
+      "filename": "fzzy_config-0.7.7+1.21+neoforge.jar",
+      "size": 2392693,
+      "sha256": "26af871cacd134ce52610384bbdd362a018707444eb2d498e4833063f378cf85"
+    },
+    {
+      "filename": "geckolib-neoforge-1.21.1-4.9.3.jar",
+      "size": 634531,
+      "sha256": "20a1995e4074f387ff549e2c57ea79dd7d41ee83c6afb9dd6a6e840e592d1c47"
+    },
+    {
       "filename": "gravestone-neoforge-1.21.1-1.0.40.jar",
       "size": 322082,
       "sha256": "204be9ccb8632a56a87aee9aab4c7874d0f6749f566c07f5dd420d24e24dc8b0"
@@ -382,6 +397,11 @@
       "filename": "libIPN-neoforge-1.21.1-6.6.3.jar",
       "size": 626146,
       "sha256": "98f061ba69d31764fa10ab7810ca49062633e107a6b261ba3b66dc25ba5fef7b"
+    },
+    {
+      "filename": "lionfishapi-3.1.jar",
+      "size": 91596,
+      "sha256": "aeebf0692650afbbc78259c0d4e3d5b7edf037707e8ae5d56045066d83a19cf6"
     },
     {
       "filename": "lithium-neoforge-0.15.4+mc1.21.1.jar",
@@ -459,6 +479,11 @@
       "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
     },
     {
+      "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "size": 203149,
+      "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
+    },
+    {
       "filename": "prickle-neoforge-1.21.1-21.1.11.jar",
       "size": 84812,
       "sha256": "ccf46c442ed3c7fe41ad056f0940560829ec4dd88360985dfacd78f4614eb167"
@@ -482,6 +507,11 @@
       "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
       "size": 12118736,
       "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+    },
+    {
+      "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
+      "size": 484332,
+      "sha256": "5e36f2c69de008dc5795f730c84ab767688f15c810944b585485349a0c911261"
     },
     {
       "filename": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
