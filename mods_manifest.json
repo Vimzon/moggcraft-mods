@@ -194,6 +194,11 @@
       "sha256": "6802c2b7ea859711462f64114c9e7ff4352a92c844a9a8f195056c8383a29147"
     },
     {
+      "filename": "client_audit-2.1.5.jar",
+      "size": 372278,
+      "sha256": "bb0ff3b22cef21a92d0e0b909feaeae45ebee4fcbda447e8369f786c4fa93337"
+    },
+    {
       "filename": "cloth-config-15.0.140-neoforge.jar",
       "size": 1163890,
       "sha256": "65e722e0d98431a07c45f8bdd8d529a217cc8c175fde1740248bd5c1b4f3c0d4"
