@@ -195,8 +195,8 @@
     },
     {
       "filename": "catalyst-0.17.0.jar",
-      "size": 32981,
-      "sha256": "59dbd05c9884b9dd6c27f1f66de8f8d0db8430aa5bc7f3096cc29cdb1ca91e60"
+      "size": 32980,
+      "sha256": "55ccf4264e116950a508a002c5b64ea22136fb8ebe67786a378c74bc713b45ca"
     },
     {
       "filename": "cbcftbcompat-1.1.0.jar",
@@ -600,8 +600,13 @@
     },
     {
       "filename": "sable-neoforge-1.21.1-2.0.6.jar",
-      "size": 12986135,
-      "sha256": "9c199157843bf953a47dff625fc5bb41c01a90538d35ad18e6996bbcb8a617c2"
+      "size": 12989343,
+      "sha256": "7e45da098a5aad1de43d0d1ffbff8d18e67bcfbb66d234fbbdb55c7411c44a7d"
+    },
+    {
+      "filename": "scalablelux-stub-1.0.0.jar",
+      "size": 836,
+      "sha256": "d0e958c742869fefae59cc6bfb66420eb93c420980fd41110e859a89ed8bef3f"
     },
     {
       "filename": "servercore-neoforge-1.5.19+1.21.1.jar",
