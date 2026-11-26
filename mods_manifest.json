@@ -169,6 +169,11 @@
       "sha256": "abf56c16c7929a52eb833456e528996cf291a84ac8184491f43b6a966102365f"
     },
     {
+      "filename": "athena-neoforge-1.21.1-4.0.6.jar",
+      "size": 99944,
+      "sha256": "43699885bbce3343916d4c5c4940cf0e3f9f6f02fdeb46e8655e121b42282ec5"
+    },
+    {
       "filename": "bellsandwhistles-0.4.7-1.21.1.jar",
       "size": 193619,
       "sha256": "a438cf2ea3a05120e12342484f1e12ca11526fbf4195d259ce1d7df8a9b3ffca"
@@ -192,6 +197,16 @@
       "filename": "catalyst-0.17.0.jar",
       "size": 34078,
       "sha256": "e7b61771e6d0dec95814037f61af3e7afd58e5c972d12ab87ca014a1510d3c12"
+    },
+    {
+      "filename": "cbcftbcompat-1.1.0.jar",
+      "size": 11850,
+      "sha256": "f32b375dc6ebbd472e8f9d0be6359cf7f13f957f8bb7576ae079c88bd424fbac"
+    },
+    {
+      "filename": "chipped-neoforge-1.21.1-4.0.2.jar",
+      "size": 15020578,
+      "sha256": "18ac6fd6b30db4922ccc6ee8bea5b113f69587505b7529834f37ace506427291"
     },
     {
       "filename": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
@@ -382,6 +397,11 @@
       "filename": "hammers-2.1.5-1.21.1-neoforge.jar",
       "size": 98840,
       "sha256": "29b7d9889babc3fbe073c066df124f72f92be6c9f6906e5842b10bd26313ace8"
+    },
+    {
+      "filename": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+      "size": 7132842,
+      "sha256": "6f2a776fb28ed07d370899814e5e711fbeebe31396097d78a3b550439b364948"
     },
     {
       "filename": "individualkeepinventory-2.3.0.jar",
