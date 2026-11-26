@@ -184,6 +184,11 @@
       "sha256": "d4f9576b6593db9486a89d35c1d84c31ee89141d99dbae2aa470350ab53c4e09"
     },
     {
+      "filename": "catalyst-0.17.0.jar",
+      "size": 34078,
+      "sha256": "e7b61771e6d0dec95814037f61af3e7afd58e5c972d12ab87ca014a1510d3c12"
+    },
+    {
       "filename": "chunkloaders-1.2.9-neoforge-mc1.21.jar",
       "size": 146058,
       "sha256": "6802c2b7ea859711462f64114c9e7ff4352a92c844a9a8f195056c8383a29147"
