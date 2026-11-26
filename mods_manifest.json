@@ -504,6 +504,11 @@
       "sha256": "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f"
     },
     {
+      "filename": "phonon-neoforge-1.21.1-0.2.1.jar",
+      "size": 197066,
+      "sha256": "09d1a5bf408a4268e9afeb23b992577829aa71a18d4184eb16de75aabde37735"
+    },
+    {
       "filename": "player-animation-lib-forge-2.0.4+1.21.1.jar",
       "size": 203149,
       "sha256": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92"
