@@ -104,6 +104,11 @@
       "sha256": "63c3057fd28bf9e4a94ffe84f53dd20d9e7172b3e4afdf1b989213935d4aaf14"
     },
     {
+      "filename": "OctoLib-NEOFORGE-0.6.3.3+1.21.jar",
+      "size": 546125,
+      "sha256": "4fce90ffca127c9a591d487e82abbb0752cc0030caf60d7150100e8ba69325f9"
+    },
+    {
       "filename": "Searchables-neoforge-1.21.1-1.0.2.jar",
       "size": 77326,
       "sha256": "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68"
@@ -524,6 +529,11 @@
       "sha256": "008068af65deec86382b4fdde61e7f495e54861cc28d5a5b000c32b435213ed3"
     },
     {
+      "filename": "morerelics-1.8.0-1.21.1.jar",
+      "size": 976643,
+      "sha256": "75070556c9292edfb29e7fc3d45bbb44810f7790dd2da6167b7f0bf8fc2ebaf5"
+    },
+    {
       "filename": "noisium-neoforge-2.7.0+mc1.21-1.21.1.jar",
       "size": 60512,
       "sha256": "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9"
@@ -572,6 +582,11 @@
       "filename": "railways-0.2.1+neoforge-mc1.21.1.jar",
       "size": 12118736,
       "sha256": "b7636c8b1b0352ed1a130dfe67f8bb574e2fc08803ed1cda4d3ea00505193914"
+    },
+    {
+      "filename": "relics-1.21.1-0.10.7.8.jar",
+      "size": 2753166,
+      "sha256": "024f63a0706a94fbb4dff5fb6534500817f72751a0e16577fe117e510b056e5c"
     },
     {
       "filename": "resourcefullib-neoforge-1.21-3.0.12.jar",
