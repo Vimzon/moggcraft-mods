@@ -1,12 +1,13 @@
 {
-  "version": "4.0",
+  "version": "4.0.1",
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.267",
   "url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MoggCraftLauncher-4.0.zip",
-  "sha256": "5301496a0c7ccce09c53ea446dcf1f4f3dbb0f4dea12b9cbed01c4c2ad6c6710",
+  "sha256": "64877da742fd53470597ac61f7f78c078bd08088592b6b70f351da9cedf0de1c",
   "installer_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MOGGCraft_Launcher_4.0_Setup.exe",
-  "installer_sha256": "4088ba8a57b53abd54b0e01465a80ea727934810509b2ddc1c6ebf07106bfec1",
+  "installer_sha256": "6e201d04018f184eef5d82e5eeb231a7f39feda031cf67159a288df87e267cda",
   "changelog": [
+    "Хотфикс 4.0.1: исправлен запуск игры (порт сервера передавался числом вместо строки).",
     "Новый дизайн Vice City: закат, пальмы, стеклянные панели, бирюзовые акценты.",
     "Исправлена кнопка «Играть»: больше не пропадает при наведении и нажатии.",
     "Новая иконка MOGG CRAFT в лаунчере, установщике и ярлыках.",

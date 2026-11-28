@@ -24,7 +24,10 @@ import zipfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
+# Имена файлов остаются 4.0 (ссылки и установщик уже у игроков),
+# а версия в manifest увеличена до 4.0.1, чтобы 4.0 получил хотфикс через автообновление.
 VERSION = "4.0"
+RELEASE_VERSION = "4.0.1"
 MC_VERSION = "1.21.1"
 NEOFORGE_VERSION = "21.1.267"
 
@@ -36,6 +39,7 @@ MANIFEST_PATH = ROOT / "launcher_version.json"
 
 RELEASE_BASE = "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/"
 CHANGELOG = [
+    "Хотфикс 4.0.1: исправлен запуск игры (порт сервера передавался числом вместо строки).",
     "Новый дизайн Vice City: закат, пальмы, стеклянные панели, бирюзовые акценты.",
     "Исправлена кнопка «Играть»: больше не пропадает при наведении и нажатии.",
     "Новая иконка MOGG CRAFT в лаунчере, установщике и ярлыках.",
@@ -106,7 +110,7 @@ def make_installer() -> None:
 
 def write_manifest(zip_hash: str, setup_hash: str) -> None:
     manifest = {
-        "version": VERSION,
+        "version": RELEASE_VERSION,
         "minecraft_version": MC_VERSION,
         "neoforge_version": NEOFORGE_VERSION,
         "url": RELEASE_BASE + ZIP_PATH.name,

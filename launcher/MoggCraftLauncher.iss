@@ -2,7 +2,7 @@
 ; Собирается из onedir-папки PyInstaller dist\MoggCraftLauncher.
 
 #define AppName "MOGGCraft Launcher"
-#define AppVersion "4.0"
+#define AppVersion "4.0.1"
 
 [Setup]
 AppId={{FCB45B53-DB73-435A-AEAE-7AAC72A3495F}
@@ -30,9 +30,9 @@ AllowNoIcons=no
 AlwaysShowDirOnReadyPage=yes
 WizardStyle=modern
 VersionInfoDescription=MOGGCraft Launcher — лаунчер сборки MOGGCraft (Minecraft 1.21.1)
-VersionInfoVersion=4.0.0
+VersionInfoVersion=4.0.1
 VersionInfoProductName={#AppName}
-VersionInfoProductVersion=4.0.0
+VersionInfoProductVersion=4.0.1
 ArchitecturesAllowed=x64compatible
 ArchitecturesInstallIn64BitMode=x64compatible
 DirExistsWarning=no

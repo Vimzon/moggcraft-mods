@@ -1,4 +1,4 @@
-# MOGGCraft Launcher 4.0 (Windows)
+# MOGGCraft Launcher 4.0.1 (Windows, хотфикс 4.0)
 
 Исходный код Windows-лаунчера, восстановленный из bytecode 3.1 с сохранением архитектуры:
 
@@ -7,9 +7,12 @@
 - `MoggCraftLauncher.spec` — PyInstaller **onedir** (обновление заменяет папку).
 - `MoggCraftLauncher.iss` — Inno Setup 7: выбор папки, Desktop/Start ярлыки,
   новая иконка, корректная повторная установка.
-- `version_info.txt` — ProductVersion/FileVersion `4.0.0.0`.
+- `version_info.txt` — ProductVersion/FileVersion `4.0.1.0`.
 - `build_release.py` — сборка ZIP + установщика + SHA-256 манифеста.
-- `test_launcher.py` — 88 офлайн-проверок (в т.ч. все состояния кнопки «Играть»).
+  Имена файлов остаются `4.0`, а `RELEASE_VERSION = 4.0.1` в манифесте
+  заставляет установленный 4.0 подхватить хотфикс через автообновление.
+- `test_launcher.py` — 92 офлайн-проверки (в т.ч. все состояния кнопки «Играть»
+  и регрессия запуска: аргументы `Popen` должны быть строками).
 - Отдельный прогон настоящего `moggcraft_updater.ps1`: backup → замена →
   перезапуск и backup → rollback → перезапуск старой версии (проверено на тестовой папке).
 
@@ -25,7 +28,7 @@
    в релиз `launcher` репозитория `Vimzon/moggcraft-mods`.
 3. Скопировать `launcher_version.json` в корень репозитория и запушить.
 4. Для будущих версий: workflow `.github/workflows/build-windows-launcher.yml`
-   собирает нажатием `workflow_dispatch` или по тегу `launcher-*`.
+   собирает нажатием `workflow_dispatch` или по тегу `launcher*`.
 
 Лаунчер сам проверяет `launcher_version.json`, показывает «ДОСТУПНО ОБНОВЛЕНИЕ»,
 скачивает ZIP в фоне, сверяет SHA-256, делает backup, копирует новую версию

@@ -88,7 +88,7 @@ from PySide6.QtWidgets import (
 # ============================== КОНСТАНТЫ ==================================
 
 APP_TITLE = "MOGGCraft Launcher"
-APP_VERSION = "4.0"
+APP_VERSION = "4.0.1"
 MINECRAFT_VERSION = "1.21.1"
 NEOFORGE_VERSION = "21.1.267"
 USER_AGENT = f"MoggCraftLauncher/{APP_VERSION} (MoggCraft)"
@@ -350,6 +350,30 @@ def sync_emotes() -> None:
             log.info("Скопировано эмоутов: %s", copied)
     except Exception:
         log.exception("Не удалось скопировать эмоуты")
+
+
+def build_launch_options(nickname: str, ram_mb: int, java_path: str) -> dict:
+    """
+    Опции для minecraft_launcher_lib.
+
+    Важно: `--port` попадает в список аргументов subprocess.Popen как есть,
+    поэтому порт обязан быть строкой. Иначе Popen падает с
+    «expected str, bytes or os.PathLike object, not int».
+    """
+    ram = int(ram_mb)
+    return {
+        "username": nickname,
+        "uuid": offline_uuid(nickname),
+        "token": "0",
+        "launcherName": APP_TITLE,
+        "launcherVersion": APP_VERSION,
+        "gameDirectory": MC_DIR,
+        "memory": ram,
+        "jvmArguments": [f"-Xmx{ram}M", f"-Xms{min(ram, 2048)}M"],
+        "server": SERVER_IP,
+        "port": str(SERVER_PORT),
+        "executablePath": str(java_path),
+    }
 
 
 def compare_versions(current: str, latest: str) -> bool:
@@ -1434,19 +1458,11 @@ class ModSyncWorker(QThread):
     def _launch_game(self, nickname: str, version_id: str) -> None:
         ram = self.ram_mb or auto_ram_mb()
         self._report(f"Запускаю игру ({ram} МБ)...", 100)
-        options = {
-            "username": nickname,
-            "uuid": offline_uuid(nickname),
-            "token": "0",
-            "launcherName": APP_TITLE,
-            "launcherVersion": APP_VERSION,
-            "gameDirectory": MC_DIR,
-            "memory": ram,
-            "jvmArguments": [f"-Xmx{ram}M", f"-Xms{min(ram, 2048)}M"],
-            "server": SERVER_IP,
-            "port": SERVER_PORT,
-            "executablePath": self._ensure_java(version_id),
-        }
+        options = build_launch_options(
+            nickname=nickname,
+            ram_mb=ram,
+            java_path=self._ensure_java(version_id),
+        )
         command = mll.command.get_minecraft_command(version_id, MC_DIR, options)
         flags = getattr(subprocess, "CREATE_NO_WINDOW", 0) if sys.platform == "win32" else 0
         log.info("Команда запуска: %s", " ".join(str(x) for x in command))

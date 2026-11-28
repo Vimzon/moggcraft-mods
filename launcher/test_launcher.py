@@ -137,7 +137,12 @@ def test_config(app, tmp: Path) -> None:
 def test_versions_and_manifest() -> None:
     check("3.1 -> 4.0 update", launcher.compare_versions("3.1", "4.0") is True)
     check("4.0 -> 4.1 update", launcher.compare_versions("4.0", "4.1") is True)
+    check("4.0 -> 4.0.1 hotfix", launcher.compare_versions("4.0", "4.0.1") is True)
     check("4.0 -> 4.0 no update", launcher.compare_versions("4.0", "4.0") is False)
+    check(
+        "текущая версия 4.0.1",
+        launcher.APP_VERSION == "4.0.1" and launcher.compare_versions("4.0", launcher.APP_VERSION),
+    )
     check("4.0 -> 3.1 no update", launcher.compare_versions("4.0", "3.1") is False)
 
     good = {
@@ -191,6 +196,35 @@ def test_versions_and_manifest() -> None:
         )
     except ValueError:
         check("offline UUID корректен", False)
+
+
+def test_launch_command_types(tmp: Path) -> None:
+    """Регрессия: int в options превращался в int-аргумент Popen."""
+    import minecraft_launcher_lib as mll
+
+    fake_dir = tmp / "fake_mc"
+    version_id = "test-4.0"
+    version_dir = fake_dir / "versions" / version_id
+    version_dir.mkdir(parents=True)
+    (version_dir / f"{version_id}.json").write_text(
+        json.dumps(
+            {
+                "id": version_id,
+                "type": "release",
+                "mainClass": "net.minecraft.client.main.Main",
+                "arguments": {"game": [], "jvm": []},
+                "libraries": [],
+            }
+        ),
+        encoding="utf-8",
+    )
+    options = launcher.build_launch_options("Vimzon", 6144, "java")
+    command = mll.command.get_minecraft_command(version_id, str(fake_dir), options)
+    check("команда запуска состоит только из строк", all(isinstance(x, str) for x in command))
+    check(
+        "порт передан строкой",
+        command[command.index("--port") + 1] == str(launcher.SERVER_PORT),
+    )
 
 
 def test_mods(tmp: Path) -> None:
@@ -263,6 +297,7 @@ def main() -> int:
         test_play_button(app)
         test_config(app, tmp)
         test_versions_and_manifest()
+        test_launch_command_types(tmp)
         test_mods(tmp)
         test_update_dialog(app)
         test_updater_script()
