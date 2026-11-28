@@ -1,0 +1,10 @@
+build/
+dist/
+Output/
+*.zip
+*.exe
+__pycache__/
+*.pyc
+launcher_version.json
+MoggCraftLauncher.test.iss
+MoggCraftLauncher.icons.test.iss
