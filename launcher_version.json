@@ -3,9 +3,9 @@
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.267",
   "url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MoggCraftLauncher-4.0.zip",
-  "sha256": "3146e0c824f1f4d497d34c23d930f1a2bb63f5cd891e1b8d307649470ab9f2c2",
+  "sha256": "5301496a0c7ccce09c53ea446dcf1f4f3dbb0f4dea12b9cbed01c4c2ad6c6710",
   "installer_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MOGGCraft_Launcher_4.0_Setup.exe",
-  "installer_sha256": "9f49c5252c92518a7b862e6e83c5080eef606d496dc74f4eec2b6e0d2c5d61e6",
+  "installer_sha256": "4088ba8a57b53abd54b0e01465a80ea727934810509b2ddc1c6ebf07106bfec1",
   "changelog": [
     "Новый дизайн Vice City: закат, пальмы, стеклянные панели, бирюзовые акценты.",
     "Исправлена кнопка «Играть»: больше не пропадает при наведении и нажатии.",

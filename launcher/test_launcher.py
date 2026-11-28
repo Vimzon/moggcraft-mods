@@ -238,6 +238,10 @@ def test_updater_script() -> None:
         check("апдейтер запущен", bool(calls))
         check("апдейтер: backup", "MoggCraftLauncher_backup_" in text and "Backup created" in text)
         check("апдейтер: rollback", "Rollback completed" in text)
+        check(
+            "апдейтер: проверяет exe в payload, а не только в install",
+            "Updated executable missing in payload" in text,
+        )
         check("апдейтер: маркер успешного старта", "moggcraft_update_ok.txt" in text)
         check("апдейтер: перезапуск", "Start-Process -FilePath $newExe" in text)
     finally:

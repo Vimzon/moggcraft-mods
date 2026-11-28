@@ -462,6 +462,11 @@ try {{
     Get-ChildItem -LiteralPath $dst -Force | Copy-Item -Destination $backup -Recurse -Force
     Log "Backup created: $backup"
 
+    # Проверяем именно payload: после копирования в dst там всё равно оставался бы
+    # старый exe, из-за чего битая версия считалась бы успешной.
+    $payloadExe = Join-Path $src $exeName
+    if (-not (Test-Path $payloadExe)) {{ throw "Updated executable missing in payload: $payloadExe" }}
+
     Get-ChildItem -LiteralPath $src -Force | Copy-Item -Destination $dst -Recurse -Force
     Log 'New version copied'
 
