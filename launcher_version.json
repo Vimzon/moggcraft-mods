@@ -1,4 +1,16 @@
 {
-  "version": "3.1",
-  "url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MoggCraftLauncher-3.1.zip"
+  "version": "4.0",
+  "minecraft_version": "1.21.1",
+  "neoforge_version": "21.1.267",
+  "url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MoggCraftLauncher-4.0.zip",
+  "sha256": "3146e0c824f1f4d497d34c23d930f1a2bb63f5cd891e1b8d307649470ab9f2c2",
+  "installer_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MOGGCraft_Launcher_4.0_Setup.exe",
+  "installer_sha256": "9f49c5252c92518a7b862e6e83c5080eef606d496dc74f4eec2b6e0d2c5d61e6",
+  "changelog": [
+    "Новый дизайн Vice City: закат, пальмы, стеклянные панели, бирюзовые акценты.",
+    "Исправлена кнопка «Играть»: больше не пропадает при наведении и нажатии.",
+    "Новая иконка MOGG CRAFT в лаунчере, установщике и ярлыках.",
+    "Автообновление с SHA-256, backup/rollback и прогрессом без зависания UI.",
+    "Сохранены никнейм, RAM, моды, загрузка сборки и запуск Minecraft 1.21.1."
+  ]
 }

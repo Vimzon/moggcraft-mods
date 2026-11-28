@@ -1,0 +1,57 @@
+name: Build MOGGCraft Launcher (Windows)
+
+on:
+  workflow_dispatch:
+  push:
+    tags:
+      - 'launcher-*'
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.14'
+          cache: 'pip'
+
+      - name: Install build dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install PySide6 requests minecraft-launcher-lib PyInstaller
+
+      - name: Install Inno Setup
+        run: choco install innosetup --no-progress -y
+
+      - name: Build launcher, ZIP and installer
+        working-directory: launcher
+        run: python build_release.py
+        env:
+          ISCC: 'C:\Program Files (x86)\Inno Setup 7\ISCC.exe'
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: moggcraft-launcher-4.0
+          path: |
+            launcher/MoggCraftLauncher-4.0.zip
+            launcher/Output/MOGGCraft_Launcher_4.0_Setup.exe
+            launcher/launcher_version.json
+          if-no-files-found: error
+
+      - name: Attach assets to the launcher release
+        if: startsWith(github.ref, 'refs/tags/launcher-')
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: launcher
+          overwrite_files: true
+          files: |
+            launcher/MoggCraftLauncher-4.0.zip
+            launcher/Output/MOGGCraft_Launcher_4.0_Setup.exe
