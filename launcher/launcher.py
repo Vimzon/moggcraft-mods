@@ -387,6 +387,11 @@ def compare_versions(current: str, latest: str) -> bool:
     return parts(latest) > parts(current)
 
 
+def update_manifest_url() -> str:
+    """Уникальный query-параметр обходит CDN-кэш raw.githubusercontent.com."""
+    return LAUNCHER_VERSION_URL + "?t=" + str(int(time.time()))
+
+
 def safe_https_url(url: str, *, allow_github: bool = True) -> bool:
     try:
         p = urlparse(str(url))
@@ -1069,10 +1074,12 @@ class UpdateChecker(QThread):
 
     def run(self):
         try:
+            # raw.githubusercontent.com кэширует ответ по URL: без уникального
+            # параметра хотфикс 4.0.1 не был бы виден установленному 4.0.
             r = requests.get(
-                LAUNCHER_VERSION_URL,
+                update_manifest_url(),
                 timeout=15,
-                headers={"User-Agent": USER_AGENT},
+                headers={"User-Agent": USER_AGENT, "Cache-Control": "no-cache"},
             )
             r.raise_for_status()
             data = parse_update_manifest(r.json())

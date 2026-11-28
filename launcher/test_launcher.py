@@ -143,6 +143,10 @@ def test_versions_and_manifest() -> None:
         "текущая версия 4.0.1",
         launcher.APP_VERSION == "4.0.1" and launcher.compare_versions("4.0", launcher.APP_VERSION),
     )
+    check(
+        "запрос манифеста обходит CDN-кэш",
+        launcher.update_manifest_url().startswith(launcher.LAUNCHER_VERSION_URL + "?t="),
+    )
     check("4.0 -> 3.1 no update", launcher.compare_versions("4.0", "3.1") is False)
 
     good = {

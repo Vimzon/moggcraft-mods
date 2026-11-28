@@ -3,9 +3,9 @@
   "minecraft_version": "1.21.1",
   "neoforge_version": "21.1.267",
   "url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MoggCraftLauncher-4.0.zip",
-  "sha256": "64877da742fd53470597ac61f7f78c078bd08088592b6b70f351da9cedf0de1c",
+  "sha256": "2dda7849c0c70d8edadfdc4ac2e57e8441fda69b89e8f01b4040491ea05431ec",
   "installer_url": "https://github.com/Vimzon/moggcraft-mods/releases/download/launcher/MOGGCraft_Launcher_4.0_Setup.exe",
-  "installer_sha256": "6e201d04018f184eef5d82e5eeb231a7f39feda031cf67159a288df87e267cda",
+  "installer_sha256": "6bd4ac0dcb28d09d398012d927c11c6b58ff8bb2711891808f0d8093a39b911b",
   "changelog": [
     "Хотфикс 4.0.1: исправлен запуск игры (порт сервера передавался числом вместо строки).",
     "Новый дизайн Vice City: закат, пальмы, стеклянные панели, бирюзовые акценты.",
