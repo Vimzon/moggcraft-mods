@@ -87,6 +87,8 @@ def find_iscc() -> Path:
         Path(os.environ.get("LOCALAPPDATA", "")) / "InnoSetup7" / "ISCC.exe",
         Path(os.environ.get("ProgramFiles(x86)", "")) / "Inno Setup 7" / "ISCC.exe",
         Path(os.environ.get("ProgramFiles", "")) / "Inno Setup 7" / "ISCC.exe",
+        Path(os.environ.get("ProgramFiles(x86)", "")) / "Inno Setup 6" / "ISCC.exe",
+        Path(os.environ.get("ProgramFiles", "")) / "Inno Setup 6" / "ISCC.exe",
     ]
     for candidate in candidates:
         if candidate.is_file():
